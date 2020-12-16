@@ -1,0 +1,13 @@
+website,logon,password,notes,auth_token,app_id,api_key,two_factor
+Icons8.com,NotReal@NotEmail.com,abc123,notes,a,b,c,1
+Nutritionix,NotReal@NotEmail.com,abc123,,,,,0
+Openweathermap.org,NotReal@NotEmail.com,abc123,,,,,0
+Pixe.la,NotReal@NotEmail.com,abc1234,auth token serves as password,abc1234,qwqwq,qwqwwq,1
+PythonAnywhere,NotReal@NotEmail.com,abc123,,,,,0
+Sheety,NotReal@NotEmail.com,abc123,,,1NVxJho8hT7gN0alNQMwH50sxQ4WP44HTaj7dSRMTupU,,0
+Test,NotReal@NotEmail.com,abc123,test comments! c d e,c,d,e,1
+Test2,sofake@NotEmail.com,a,e,b,c,d,0
+Test3,faker@NotEmail.com,eI*!LK#B4mp7huM-50,eI*!LK#B4mp7huM-50,eI*!LK#B4mp7huM-50,eI*!LK#B4mp7huM-50,eI*!LK#B4mp7huM-50,1
+TradingView,NotReal@NotEmail.com,abc123,,,,,0
+Twilio,NotReal@NotEmail.com,abc123,,,,,0
+Udemy,NotReal@NotEmail.com,abc123,,,,,0
